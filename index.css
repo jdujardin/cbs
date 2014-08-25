@@ -1,0 +1,106 @@
+/*H1{COLOR:blue; TEXT-ALIGN:center}
+BODY {BACKGROUND-COLOR:#e0ffff;}*/
+p{font-family:"Times New Roman", Times, serif;}
+/*a:link {color:red}      /*not visited*/
+/*a:visited {color:blue}*/  /*visited */
+/*a:hover {color:green}*/  /* mouse over */
+/*a:active {color:yellow}*/ /* selected */*/
+
+/** div containing the html elements */
+/*div.testlayout{
+float:left;
+width:120px;
+padding:5px;
+border:10px solid;
+margin:10px;
+clear:right;
+}
+
+div.testlayout2{
+float:left;
+width:120px;
+padding:15px;
+border:5px solid;
+margin:5px;
+}
+
+div.testlayout3{
+width:340px;
+padding:1px;
+border:2px solid;
+margin:1px;
+clear:left
+}
+
+#faq{
+width:340px;
+padding:1px;
+border:2px solid;
+margin:1px;
+clear:left
+}
+
+#center{
+text-align:center
+}
+
+img
+{
+opacity:0.4;
+}
+img:hover
+{
+opacity:1.0;
+}*/
+
+/*Start of Bill's Code*/
+
+#header {
+  padding-bottom: 35px;
+  display: block;
+}
+
+div.menu {
+  border-bottom: 1px solid #999;
+  z-index: 1000;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.1);
+  position:relative;
+  z-index: 1000;
+}
+
+div.menu ul li.menuitem {
+display:inline;
+margin-right: 25px;
+align:center;
+height: 25px;
+width: 35px;
+text-decoration:none;
+}
+
+div.menu ul li.menuitem a {
+height: 25px;
+width: 35px;
+text-decoration: none;
+}
+
+/*div.menu ul li.menuitem a:hover {
+color: blue;
+}*/
+
+div.menu ul {
+clear: both;
+height: 25px;
+margin-left: auto;
+margin-right: auto;
+}
+
+#bodycontent div {
+  height: 500px;
+}
+
+.banner {
+  /*background: blue;*/
+}
+
+
+
